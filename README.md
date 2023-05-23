@@ -23,4 +23,4 @@ Dans le diagramme ci-dessus, vous pouvez voir qu’un Constructor Pattern est co
 
 ## Utilisez des design patterns en JavaScript
 
-Cours [Utilisez des design patterns en JavaScript](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript), chapitre [Créez vos objets avec le Constructor Pattern](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript/7478436-creez-vos-objets-avec-le-constructor-pattern) sur OpenClassrooms.
+Cours [Utilisez des design patterns en JavaScript](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript) par @tdimnet, chapitre [Créez vos objets avec le Constructor Pattern](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript/7478436-creez-vos-objets-avec-le-constructor-pattern) sur OpenClassrooms.
